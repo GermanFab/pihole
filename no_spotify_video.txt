@@ -1,0 +1,6 @@
+0.0.0.0 video-fa.scdn.co
+0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
+0.0.0.0 video-akpcw.spotifycdn.com
+0.0.0.0 video-ak.cdn.spotify.com.splitter-eip.akadns.net
+0.0.0.0 video-fa-b.cdn.spotify.com
+0.0.0.0 video4-ak.spotify.com
