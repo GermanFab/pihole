@@ -355,6 +355,7 @@ sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.rus.xiaomi.com
 sdkconfig.ad.xiaomi.com
+sdkconfig.intl.xiaomi.com
 sec-cdn.static.xiaomi.net
 secode2.hd.xiaomi.com
 secure.report.iss.xiaomi.com
